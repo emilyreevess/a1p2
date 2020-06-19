@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/reeve/CLionProjects/ereevesA1P1/doubly-linked-list.cpp
+doubly-linked-list.h
+/cygdrive/c/Users/reeve/CLionProjects/ereevesA1P1/doubly-linked-list.h
+iostream
+-
+
+/cygdrive/c/Users/reeve/CLionProjects/ereevesA1P1/doubly-linked-list.h
+

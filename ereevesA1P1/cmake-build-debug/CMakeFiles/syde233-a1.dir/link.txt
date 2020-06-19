@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -std=c++11 -Wall  -g  -Wl,--enable-auto-import CMakeFiles/syde233-a1.dir/sequential-list.cpp.o CMakeFiles/syde233-a1.dir/doubly-linked-list.cpp.o CMakeFiles/syde233-a1.dir/test.cpp.o  -o syde233-a1.exe -Wl,--out-implib,libsyde233-a1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
